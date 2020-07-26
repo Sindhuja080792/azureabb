@@ -1,0 +1,4 @@
+c:\users\sudheer\documents\visual studio 2012\Projects\AzureDemoSample\AzureDemoSample\bin\AzureDemoSample.dll
+c:\users\sudheer\documents\visual studio 2012\Projects\AzureDemoSample\AzureDemoSample\bin\AzureDemoSample.pdb
+c:\users\sudheer\documents\visual studio 2012\Projects\AzureDemoSample\AzureDemoSample\obj\Debug\AzureDemoSample.dll
+c:\users\sudheer\documents\visual studio 2012\Projects\AzureDemoSample\AzureDemoSample\obj\Debug\AzureDemoSample.pdb
